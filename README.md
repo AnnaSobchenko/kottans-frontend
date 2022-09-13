@@ -11,3 +11,6 @@
 <img src="./images/quiz3.jpg" alt="git quiz3">
 <img src="./images/quiz4.jpg" alt="git quiz4">
 Linux CLI and HTTP — #done
+
+## Git Collaboration
+<img src="./images/git_basics1.jpg" alt="git basics1">
