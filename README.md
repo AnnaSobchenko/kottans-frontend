@@ -14,3 +14,4 @@ Linux CLI and HTTP — #done
 
 ## Git Collaboration
 <img src="./images/git_basics1.jpg" alt="git basics1">
+<img src="./images/git_push-pull1.jpg" alt="git push-pull1">
