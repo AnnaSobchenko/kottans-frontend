@@ -19,3 +19,4 @@ Git Collaboration — #done
 
 ## Intro to HTML and CSS
 <img src="./images/task_html_css_intro/task_html.jpg" alt="task_html">
+<img src="./images/task_html_css_intro/task_css.jpg" alt="task_css">
