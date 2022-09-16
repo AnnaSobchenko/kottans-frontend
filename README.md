@@ -23,3 +23,9 @@ Git Collaboration — #done
 <img src="./images/task_html_css_intro/task_html.jpg" alt="task_html">
 <img src="./images/task_html_css_intro/task_css.jpg" alt="task_css">
 Intro to HTML and CSS — #done
+
+
+## Responsive Web Design
+<img src="./images/task_responsive_web_design/frogs.jpg" alt="frogs">
+<img src="./images/task_responsive_web_design/grid-garden.jpg" alt="grid-garden">
+Responsive Web Design — #done
