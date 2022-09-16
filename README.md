@@ -18,5 +18,8 @@ Linux CLI and HTTP — #done
 Git Collaboration — #done
 
 ## Intro to HTML and CSS
+<img src="./images/task_html_css_intro/task_week1.jpg" alt="task_week1">
+<img src="./images/task_html_css_intro/task_week2.jpg" alt="task_week2">
 <img src="./images/task_html_css_intro/task_html.jpg" alt="task_html">
 <img src="./images/task_html_css_intro/task_css.jpg" alt="task_css">
+Intro to HTML and CSS — #done
